@@ -51,3 +51,4 @@ Cleaned Retail Sales Dataset
 * Use Case:
 This dashboard helps supermarket chains, retail analysts, and managers understand item performance, outlet-wise sales distribution, and the impact of outlet characteristics (like size/type/tier) on overall sales metrics.
 
+![Image](https://github.com/user-attachments/assets/32eb4bb3-afb4-475c-b7d2-c85d7cf5d260)
